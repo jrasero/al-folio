@@ -1,12 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - jrasero
+  
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jrasero/connectivity-measures-clustering
+  - jrasero/my-scikit-tools
+  - jrasero/my-nipype-pipelines
+  - jrasero/Predicting-icns
+  - jrasero/mdmr
+  - jrasero/consensus
+  - CoAxLab/cofluctuating-task-connectivity
+  - CoAxLab/pycombat
+  - CoAxLab/niphlem
+  - CoAxLab/multimodal-predict-cognition
+  - compneurobilbao/asd-subtyping-enrichment
